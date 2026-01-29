@@ -1,0 +1,16 @@
+INSERT INTO tbl_cards (hp, name, type_id, stage_id, info, attack, damage, weak, resist, retreat, cardNumberInCollection, collection_id) VALUES
+(60, 'Pikachu', 4, 1, 'When several of these Pokémon gather, their electricity could build and cause lightning storms.', 'Thunder Shock', '10', 'Fighting', '', 1, 25, 1),
+(50, 'Jigglypuff', 11, 1, 'When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.', 'Sing', '', 'Steel', '', 1, 54, 1),
+(70, 'Meowth', 11, 1, 'Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.', 'Pay Day', '10', 'Fighting', '', 1, 56, 1),
+(80, 'Gyarados', 3, 3, 'Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.', 'Dragon Rage', '50', 'Lightning', '', 3, 6, 1),
+(60, 'Eevee', 11, 1, 'Its genetic code is irregular. It may mutate if it is exposed to radiation from element stones.', 'Quick Attack', '10', 'Fighting', '', 1, 51, 1),
+(70, 'Machop', 6, 1, 'Loves to build its muscles. It trains in all styles of martial arts to become even stronger.', 'Karate Chop', '20', 'Psychic', '', 1, 52, 1),
+(80, 'Alakazam', 5, 3, 'Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5,000.', 'Confusion', '30', 'Psychic', '', 2, 1, 1),
+(90, 'Snorlax', 11, 1, 'Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.', 'Body Slam', '30', 'Fighting', '', 4, 11, 1),
+(70, 'Onix', 6, 1, 'As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.', 'Rock Throw', '20', 'Grass', '', 3, 95, 1),
+(60, 'Gastly', 5, 1, 'Almost invisible—this gaseous Pokémon cloaks the target and puts it to sleep without notice.', 'Lick', '10', 'Psychic', '', 1, 50, 1),
+(80, 'Haunter', 5, 2, 'Because of its ability to slip through block walls, it is said to be from another dimension.', 'Night Shade', '30', 'Psychic', '', 1, 51, 1),
+(100, 'Gengar', 5, 3, 'Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.', 'Shadow Punch', '40', 'Psychic', '', 2, 52, 1),
+(110, 'Magmar', 2, 1, 'Its body always burns with an orange glow that enables it to hide perfectly among flames.', 'Fire Punch', '30', 'Water', '', 2, 126, 1),
+(120, 'Pinsir', 1, 1, 'If it fails to crush the victim in its pincers, it will swing it around and toss it hard.', 'Vice Grip', '30', 'Fire', '', 2, 127, 1),
+(130, 'Tauros', 11, 1, 'When it targets an enemy, it charges furiously while whipping its body with its long tails.', 'Horn Attack', '30', 'Fighting', '', 2, 128, 1);
